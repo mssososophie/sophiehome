@@ -29,6 +29,9 @@ div {
   height: 50vh;
 }
 
+.image-one {
+	background: url('../images/The-Fridge.gif')
+
 .font-one {
   font-family: Roboto;
 }
