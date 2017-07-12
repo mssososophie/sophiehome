@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div {
+  border: 1px solid white;
+}
+
+.landing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.footer{
+  height: 15vh
+}
+
+.split {
+  height: 2vh;
+}
+
+.big-panel {
+    height: 80vh;
+    background: url('../images/The-Fridge.gif');
+}
+
+.small-panel {
+  height: 50vh;
+}
+
+.font-one {
+  font-family: Roboto;
+}
+
+.font-two {
+  font-family: Raleway;
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-box{
+  height: 50vh;
+  background: #ffb6c1;
+}
+
+.cat {
+   background: url('http://placekitten.com/g/400/400');
+}
+
+.landing h1 {
+  text-align: center;
+}
